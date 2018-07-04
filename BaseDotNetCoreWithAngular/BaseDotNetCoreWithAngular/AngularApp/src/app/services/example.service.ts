@@ -9,7 +9,7 @@ import 'rxjs/Rx';
 
 @Injectable()
 export class ExampleService {
-    baseUrl = 'http://localhost:53316/';
+    baseUrl = 'http://localhost:49813/';
 
     constructor(private http: HttpClient) { }
 
